@@ -146,10 +146,6 @@ The application uses a Pydantic model to structure research responses.
 - Keep API keys private.
 - Monitor API usage and credit consumption.
 
-## **License**
-
-This project is intended for educational and research purposes. Add a license file if you plan to distribute it publicly.
-
 ---
 
 **Developed as a Python-based AI research assistant using LangChain and Claude.**

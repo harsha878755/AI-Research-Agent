@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-The **AI Research Assistant Agent** is an AI-powered research tool built using LangChain and Claude. It helps users research topics by generating structured responses, summarizing information, collecting sources, and using external tools to support the research process.
+The **AI Research Assistant Agent** is an AI-powered research tool built using LangChain and OpenAI. It helps users research topics by generating structured responses, summarizing information, collecting sources, and using external tools to support the research process.
 
 The agent uses an LLM to understand user queries, decide when to use available tools, and return structured research results using Pydantic.
 
